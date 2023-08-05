@@ -1,1 +1,11 @@
-1231
+    Git
+git init
+git add text
+git status
+git commit -m "text"
+git add .(add all)
+
+    Github
+git remote add origin 'link'
+git push -u origin main(first time pushing, set main as default)
+git push origin main
